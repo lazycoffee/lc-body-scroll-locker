@@ -1,0 +1,23 @@
+{
+  "name": "lc-bodyscrolllocker",
+  "version": "1.0.0",
+  "description": "Lock or unlock your body scroll.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazycoffee/LC-BodyScrollLocker.git"
+  },
+  "keywords": [
+    "body",
+    "scroll"
+  ],
+  "author": "JamesYin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lazycoffee/LC-BodyScrollLocker/issues"
+  },
+  "homepage": "https://github.com/lazycoffee/LC-BodyScrollLocker#readme"
+}
